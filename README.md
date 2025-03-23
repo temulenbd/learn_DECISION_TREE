@@ -1,2 +1,0 @@
-# learn_DECISION_TREE
-This is for my personal reference, where I compile codes and exercises that could be useful later on.
